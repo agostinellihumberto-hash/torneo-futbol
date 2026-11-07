@@ -2,9 +2,9 @@ import streamlit as st
 import random
 import pandas as pd
 
-st.set_page_config(page_title="Gestor Profesional de Fútbol", layout="wide")
+st.set_page_config(page_title="Gestor Profesional de torneos", layout="wide")
 
-st.title("🏆 Gestor Profesional de Torneo de Fútbol")
+st.title("🏆 Gestor Profesional de Torneo")
 st.markdown("Configurá tu formato de torneo, cargá tus planteles, simulá resultados y disputá la fase eliminatoria (mata mata).")
 
 # --- CONSTANTES ---
